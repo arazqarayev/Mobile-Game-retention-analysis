@@ -1,12 +1,6 @@
 # Mobile-Game-retention-analysis
 🎮 Mobile Game Retention Analysis — On  R 
 
-# ======================================================
-# 🎮 Mobile Game Retention Analysis — One-Click R Script
-# - Reads mobilegame.csv
-# - Computes simple KPIs, version summary, segmentation
-# - Saves figures + CSV outputs
-
 
 need <- c("tidyverse")
 has  <- need %in% rownames(installed.packages())
